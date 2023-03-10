@@ -1,0 +1,9 @@
+{
+    "name": "library_project",
+    "version": "1.0.0",
+    "description": "A library creator for books, movies and CDs",
+    "main": "main.js", 
+    "type": "module",
+    "author": "ACSly",
+    "license": "MIT"
+}
